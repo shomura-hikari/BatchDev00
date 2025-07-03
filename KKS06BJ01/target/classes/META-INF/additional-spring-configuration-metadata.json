@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "kks06.backup.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.backup.dir'"
+  },
+  {
+    "name": "kks06.errorlog.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.errorlog.dir'"
+  },
+  {
+    "name": "kks06.backup.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.backup.dir'"
+  },
+  {
+    "name": "kks06.errorlog.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.errorlog.dir'"
+  },
+  {
+    "name": "kks06.backup.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.backup.dir'"
+  },
+  {
+    "name": "kks06.errorlog.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.errorlog.dir'"
+  },
+  {
+    "name": "kks06.backup.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.backup.dir'"
+  },
+  {
+    "name": "kks06.backup.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.backup.dir'"
+  },
+  {
+    "name": "kks06.backup.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.backup.dir'"
+  },
+  {
+    "name": "kks06.errorlog.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.errorlog.dir'"
+  },
+  {
+    "name": "kks06.backup.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.backup.dir'"
+  },
+  {
+    "name": "kks06.errorlog.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.errorlog.dir'"
+  },
+  {
+    "name": "kks06.backup.dir",
+    "type": "java.lang.String",
+    "description": "A description for 'kks06.backup.dir'"
+  }
+]}
